@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 🔷 Hexagon Grid Ripple Effect
 
 An interactive and visually immersive web experience that combines a
